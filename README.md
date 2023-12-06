@@ -1,2 +1,2 @@
 # cv.portfolio
-repo for my updated cv and Making portfolio using HTML CSS JS 
+repo for my updated CV and Making a portfolio using HTML CSS JS 
